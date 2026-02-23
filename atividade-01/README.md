@@ -13,6 +13,6 @@ Arquivos
 - infografico.pdf
 - reflexao.md
 
-Integrante
+Integrantes:
 Caio Godoy e
 Emmanuel Avelino
