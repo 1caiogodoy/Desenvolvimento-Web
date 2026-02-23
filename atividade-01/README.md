@@ -14,5 +14,5 @@ Arquivos
 - reflexao.md
 
 Integrante
-Caio Godoy
+Caio Godoy e
 Emmanuel Avelino
