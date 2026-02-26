@@ -1,12 +1,12 @@
 Atividade 01 – Evolução da Web
 
-Disciplina
+Disciplina:
 Engenharia de Software
 
-Tema
+Tema:
 Marcos históricos da evolução da Web
 
-Descrição
+Descrição:
 Este trabalho apresenta um infográfico sobre um dos principais marcos históricos da evolução da Web, a criação do TCP e RFC 675.
 
 Arquivos
