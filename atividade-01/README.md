@@ -14,7 +14,7 @@ Arquivos
 - reflexao.md
 
 Integrantes:
-Caio Godoy e
+Caio de Godoy e
 Emmanuel Avelino
 
 referência bibliográfica:
